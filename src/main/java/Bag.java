@@ -123,7 +123,7 @@ public abstract class Bag {
      * This method requires you to have created the private
      * instance variables mentioned above.
      *
-     * @return
+     * @return the String description of the details of this Bag
      */
     @Override
     public String toString() {

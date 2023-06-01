@@ -12,8 +12,8 @@ public class HandBag extends Bag{
      * Creates a new HandBag with the given color and
      * capacity.
      *
-     * @param color
-     * @param capacity
+     * @param color the color of the HangBag
+     * @param capacity the number of items that can be contained in the HangBag
      */
     public HandBag(String color, int capacity) {
         /**
